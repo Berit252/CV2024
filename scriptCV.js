@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 document.getElementById('backBlack').addEventListener('click', function(){
-  window.location.href = 'http://127.0.0.1:5500/index.html';
+  window.location.href = 'https://berittang.net/';
 })
 document.getElementById('backWhite').addEventListener('click', function(){
-  window.location.href = 'http://127.0.0.1:5500/index.html';
+  window.location.href = 'https://berittang.net/';
 })
